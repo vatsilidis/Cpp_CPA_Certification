@@ -11,7 +11,8 @@ Is the code I was testing during the learning path at the CPA Certification stud
 ## Workflow graph
 It was a nice chance during the organizing in folders proccess to create a workflow graph, to experiment and also to show how a formal production graph appears in the Sourcetree Git tool.
 This is what it holds the following screenshot during the graph creation.
-<img src="graph.jpg"/>
+<img src="graph.png"/>
+
 
 # Contributors
 * [Lampros Vatsilidis](https://www.linkedin.com/in/lamprosvatsilidis/)
