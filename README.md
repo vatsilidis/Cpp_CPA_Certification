@@ -8,5 +8,10 @@ Some files are causing compilation errors in order to search and find what is ca
 Is the code I was testing during the learning path at the CPA Certification studies at www.cppinstitute.org, trying to get to the CPA Certification.
 
 
+## Workflow graph
+It was a nice chance during the organizing in folders proccess to create a workflow graph, to experiment and also to show how a formal production graph appears in the Sourcetree Git tool.
+This is what it holds the following screenshot during the graph creation.
+<img src="graph.jpg"/>
+
 # Contributors
 * [Lampros Vatsilidis](https://www.linkedin.com/in/lamprosvatsilidis/)
